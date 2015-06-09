@@ -1,6 +1,4 @@
 <?php
-	session_start(); 
-
 	function getComputerChoice() 
 	{
 		// Generate random number
